@@ -1,4 +1,5 @@
-# Prompt-Optimizer
+# ![Leonardo_Diffusion_2_A_vibrant_neonilluminated_Pencil_with_0](https://github.com/Reborn14/Prompt-Optimizer/assets/74488779/0f09cdc2-9756-4c00-9d70-a21082b38135)
+Prompt-Optimizer
 
 Prompt-Optimizer 是一个包含优化prompt的JSON文件，旨在帮助用户通过与GPT对话生成更好的问题，从而获得更好的答案。
 
