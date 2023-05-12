@@ -11,6 +11,7 @@ Prompt-Optimizer 是一个包含优化prompt的JSON文件，旨在帮助用户�
 以下是几个使用 Prompt-Optimizer 的示例场景：
 
 ### 示例1：编写Readme
+https://poe.com/s/U5Km8OUUNrAdyEfCnJfh
 ![image](https://github.com/Reborn14/Prompt-Optimizer/assets/74488779/4a46b590-b7c7-4d47-84cb-a0dfc4dd226e)
 ![image](https://github.com/Reborn14/Prompt-Optimizer/assets/74488779/2354efa0-103f-44ca-a3ff-936c1836b6e7)
 
